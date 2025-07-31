@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Optional: also ignore these common extras
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+venv/
+.env.*
+.env
